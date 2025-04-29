@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Sou estudante do programa Jovem Talendo Tech
+### Estou aprendendo e desenvolvendo habilidades em C e C++
+### Gosto muito de jogar xadrez!
+
+
+
 <!--
 **Joaopedro01dev/Joaopedro01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
