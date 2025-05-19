@@ -3,6 +3,7 @@
 ### Sou estudante do programa Jovem Talendo Tech
 ### Estou aprendendo e desenvolvendo habilidades em C e C++
 ### Gosto muito de jogar xadrez!
+### Uso o Neps Academy!
 
 
 
